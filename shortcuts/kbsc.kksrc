@@ -1,0 +1,49 @@
+[Custom Commands][net.local.kitty.sh.desktop]
+Exec=/home/balta/linux-config/scripts/kitty.sh
+Name=kitty
+
+[KDE Keyboard Layout Switcher][Global Shortcuts]
+Switch keyboard layout to Español (teclas Windows)=
+Switch keyboard layout to Japones=
+Switch keyboard layout to Japonés (kana)=
+Switch keyboard layout to Ruso (fonético)=
+Switch keyboard layout to Ruso (fonético, AZERTY)=
+Switch keyboard layout to Ruso (fonético, con teclas Windows)=
+Switch keyboard layout to Russian (phonetic)=
+Switch keyboard layout to Russian (phonetic, Windows)=
+Switch keyboard layout to Russian (plus typographic symbols)=
+Switch keyboard layout to Spanish (Dvorak)=
+Switch keyboard layout to Spanish (Windows)=
+Switch keyboard layout to typo=
+Switch to Last-Used Keyboard Layout=Meta+Alt+L
+Switch to Next Keyboard Layout=Meta+Alt+K
+
+[net.local.kitty.sh.desktop][Global Shortcuts]
+_launch=Alt+Q; Meta+Q
+
+[org.kde.dolphin.desktop][Global Shortcuts]
+_launch=Alt+D; Meta+E
+
+[org.kde.plasma-systemmonitor.desktop][Global Shortcuts]
+_launch=Meta+Esc
+
+[org.kde.plasma.emojier.desktop][Global Shortcuts]
+_launch=Meta+Ctrl+Alt+Shift+Space; Meta+.
+
+[org.kde.spectacle.desktop][Global Shortcuts]
+ActiveWindowScreenShot=Meta+Print
+CurrentMonitorScreenShot=
+FullScreenScreenShot=Shift+Print
+OpenWithoutScreenshot=
+RecordRegion=Meta+R; Meta+Shift+R
+RecordScreen=Meta+Alt+R
+RecordWindow=Meta+Ctrl+R
+RectangularRegionScreenShot=Meta+Shift+Print
+WindowUnderCursorScreenShot=Meta+Ctrl+Print
+_launch=Meta+Shift+S; Print
+
+[thunar.desktop][Global Shortcuts]
+_launch=Alt+T
+open-computer=
+open-home=
+open-trash=
