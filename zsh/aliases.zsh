@@ -21,6 +21,7 @@ alias cls='clear'
 alias apt-get='sudo apt-get'
 alias multitail='multitail --no-repeat -c'
 alias freshclam='sudo freshclam'
+alias obs='strace -e trace=execve obs'
 
 # Editor shortcuts
 alias vi='nvim'
