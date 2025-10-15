@@ -120,3 +120,5 @@ alias logs="sudo find /var/log -type f -exec file {} \; | grep 'text' | cut -d' 
 alias sha1='openssl sha1'
 alias clickpaste='sleep 3; xdotool type "$(xclip -o -selection clipboard)"'
 alias kssh="kitty +kitten ssh"
+alias gitp="git add -A && git commit -m 'hotfix' && git push"
+alias runp="cd VManager && dotnet run -c Release -r linux-x64 && .." 
