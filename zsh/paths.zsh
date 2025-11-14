@@ -7,3 +7,7 @@ export PATH="$HOME/.pyenv/shims:$HOME/.pyenv/bin:/usr/local/sbin:/usr/local/bin:
 
 # Time zone
 export TZ="America/Argentina/Buenos_Aires"
+
+# Editor
+export EDITOR="nvim"
+export VISUAL="nvim"

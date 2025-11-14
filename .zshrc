@@ -9,7 +9,7 @@ fi
 
 # Path a Oh My Zsh
 export ZSH="$HOME/.oh-my-zsh"
-ZSH_THEME="powerlevel10k/powerlevel10k"
+ZSH_THEME="trapd00r" # set by `omz`
 
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
